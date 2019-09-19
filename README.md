@@ -1,4 +1,4 @@
-# Aula 5 - Controles Swing - Avançado
+# PI2 - Controles Swing - Avançado
 Apresentar controles que mantém estado e navegação por menus em uma aplicação Desktop
 
 ### Tarefa 1 - Controles de Grupo
@@ -51,4 +51,4 @@ novoCliente.setVisible(true);
 
 3.7 Exiba uma mensagem de diálogo ao usuário “Obrigado por comprar um ” + “[TipoComputador]” + “com ” + “[Sistema Operacional]” , resgatando os valores do objeto instanciado da classe “Computador”.
 
-3.8 Salve seu projeto como seunomesobrenomeADO1.zip e suba ao blackboard.
+3.8 Faça o commit no github, com mensagem de commit 'ADO' ou 'entrega ADO' até a data e horário estipulados.
